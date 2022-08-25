@@ -1,0 +1,15 @@
+{
+  "name": "api_crud_produtos_memoria",
+  "version": "1.0.0",
+  "description": "API para CRUD de Produtos",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Luis Henrique Ries",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
